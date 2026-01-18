@@ -1,0 +1,2 @@
+# Inventario.py
+Inventario ficticio
